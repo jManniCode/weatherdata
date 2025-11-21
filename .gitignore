@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# React / Frontend
+Frontend/node_modules/
+Frontend/dist/
+.env
+
+# Databas
+*.db
+*sqlite3
