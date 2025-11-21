@@ -214,3 +214,6 @@ Frontend/dist/
 # Databas
 *.db
 *sqlite3
+
+# Jetbrains
+.idea
